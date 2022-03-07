@@ -196,6 +196,11 @@ ion-icon {
     transition: transform .25s;
 }
 
+.dropdown .dropdown-btn {
+    display: flex;
+    align-items: center;
+}
+
 /* JavaScript styles */
 .nav-mobile.active {
     transform: translateX(0);
